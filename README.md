@@ -1,5 +1,5 @@
 ## Hi there 👋
-[woroking]!https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3JnOWQzcXI5MWhocmw0NTBya2lub2JzYWQ1Z2Y5NG5ud3dmZnB4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRVM7bxdn7yEFWTN6i/giphy.gif
+![woroking]https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3JnOWQzcXI5MWhocmw0NTBya2lub2JzYWQ1Z2Y5NG5ud3dmZnB4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRVM7bxdn7yEFWTN6i/giphy.gif
 
 # 💫 About Me:
 🔭 I’m currently working on projects in data science, data analysis, and automation<br>👯 I’m looking to collaborate on data science / automation projects<br>🤝 I’m looking for support and guidance from experienced professionals<br>🌱 I’m currently learning automation<br>💬 Ask me about data analysis<br>⚡ Fun fact: I built a Machine Learning model that predicts hotel booking cancellations
