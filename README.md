@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Toujours+en+train+d%27apprendre)
+![Stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
 
 # 💫 About Me:
 🔭 I’m currently working on projects in data science, data analysis, and automation<br>👯 I’m looking to collaborate on data science / automation projects<br>🤝 I’m looking for support and guidance from experienced professionals<br>🌱 I’m currently learning automation<br>💬 Ask me about data analysis<br>⚡ Fun fact: I built a Machine Learning model that predicts hotel booking cancellations
